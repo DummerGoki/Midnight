@@ -1,2 +1,6 @@
-# Midnight
-This is a powerful nukebot that is coming soon!
+# What is Midnight?
+
+This is a nukebot for discord
+
+# Project Status: Coming soon
+
